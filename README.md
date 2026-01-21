@@ -1,6 +1,6 @@
 # Foundations for reasoning about Holistic Specifications
 
-This repository currently includes the theory of holistic specifications in Isabelle/HOL. 
+This repository contains the theory of holistic specifications in Isabelle/HOL, which was developed as part of my [Master's thesis](https://ducthan.net/assets/pub/MPhilThesis.pdf) in 2020 at the University of Melbourne.
 
 * Specifications of sufficient conditions may be enough for reasoning about complete and unchanging programs of a closed system. However, in an open world, there is not a luxury of trusting external components of possibly unknown provenance, buggy, or potentially malicious. It is critical to ensure that our components are robust when they collaborate with a wide range of external components. 
 Holistic specifications which are concerned with sufficient, as well as with necessary conditions could make programs more robust in an open-world setting.
